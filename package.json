@@ -1,0 +1,24 @@
+{
+  "name": "source-map-demos",
+  "version": "1.0.0",
+  "description": "Source map demos for developer tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsantell/source-map-demos.git"
+  },
+  "author": "Jordan Santell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jsantell/source-map-demos/issues"
+  },
+  "homepage": "https://github.com/jsantell/source-map-demos#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-coffee": "^2.3.1",
+    "gulp-sourcemaps": "^1.6.0"
+  }
+}
